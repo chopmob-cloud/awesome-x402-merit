@@ -32,6 +32,7 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [PayAI Facilitator & Supported Networks](https://docs.payai.network/x402/quickstart#facilitator)
 - [thirdweb Facilitator & Supported Networks](https://portal.thirdweb.com/payments/x402/facilitator)
 - [Corbits Faremeter Facilitators & Supported Networks](https://docs.corbits.dev/about-corbits/networks)
+- [AlgoVoi Facilitator & Supported Networks](https://api1.ilovechicken.co.uk/.well-known/agent.json) — multi-chain x402 facilitator spanning EVM (Base, Tempo), SVM (Solana, with Solana Pay `reference` binding), AVM (Algorand, VOI), Stellar, and Hedera on a single endpoint
 
 
 ### Open Source & SDKs
